@@ -1,37 +1,31 @@
-# Báo Cáo Tiến Độ Tuần 6 – Đồ án 1
+# 📑 Mẫu Báo Cáo Tiến Độ Tuần – Đồ án môn học
 
-**Tên sinh viên:** Danh Nat
-**MSSV:** 22520924
-**Tuần báo cáo:** Tuần 6 (Từ ngày 14/10/2025 đến 20/10/2025)
+**Tên nhóm:** Danh Nat
+**MSSV các thành viên:** 22520924
+**Tuần báo cáo:** Tuần 6 (Từ ngày 18/10/2025 đến 25/10/2025)
 
 ---
 
 ## 1. Công việc đã thực hiện trong tuần
-
-* [ ] In các part 3D của cẳng tay và bàn tay.
-* [ ] Kiểm tra độ khớp nối giữa các part.
-* [ ] Ráp khung cơ bản của cẳng tay.
-* [ ] Gắn servo vào vị trí khe lắp để kiểm tra độ fit.
+- [ ] Việc 1: Cài đặt Flask và thiết lập cấu trúc thư mục Web Server (static, templates).
+- [ ] Việc 2: Chuyển code OpenCV sang dạng Class để dễ tích hợp vào Flask.
+- [ ] Việc 3: Tạo trang HTML cơ bản hiển thị dòng chữ "Robot Control Panel".
 
 ---
 
 ## 2. Kết quả đạt được
-
-* Đã in xong các part chính của mô hình 3D.
-* Các khớp nối cơ bản lắp vừa, không cần chỉnh sửa nhiều.
-* Ráp thử được phần cẳng tay với một số servo đặt giả định, nhìn chung vừa khít.
+- Đã chạy được Localhost server cổng 5000.
+- Mã nguồn Python đã được tổ chức lại gọn gàng hơn.
 
 ---
 
 ## 3. Khó khăn / Vấn đề gặp phải
-
-* Một số chi tiết nhỏ (lỗ vít, khe dây kéo) còn hơi chặt, cần mài/tinh chỉnh nhẹ sau in.
-* Chất liệu in PLA có độ cứng tốt nhưng một vài part mỏng dễ nứt nếu siết vít quá mạnh.
+- Xung đột giữa vòng lặp `while` của OpenCV và vòng lặp `run` của Flask.
 
 ---
 
 ## 4. Kế hoạch tuần tới
+- [ ] Việc 2: Thiết kế giao diện Dashboard cơ bản.
+- [ ] Việc 3: Tạo các nút bấm điều khiển trên Web.
 
-* [ ] Hoàn thiện lắp 6 servo vào khung.
-* [ ] Test điều khiển servo cơ bản bằng code Arduino (servo sweep).
-* [ ] Map góc servo cho từng ngón tay để chuẩn bị tích hợp điều khiển.
+---

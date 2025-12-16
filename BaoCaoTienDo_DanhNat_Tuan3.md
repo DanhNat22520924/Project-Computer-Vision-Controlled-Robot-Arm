@@ -1,37 +1,31 @@
-# Báo Cáo Tiến Độ Tuần 3 – Đồ án 1
+# 📑 Mẫu Báo Cáo Tiến Độ Tuần – Đồ án môn học
 
-**Tên sinh viên:** Danh Nat
-**MSSV:** 22520924
-**Tuần báo cáo:** Tuần 3 (Từ ngày 23/9/2025 đến 30/9/2025)
+**Tên nhóm:** Danh Nat
+**MSSV các thành viên:** 22520924
+**Tuần báo cáo:** Tuần 3 (Từ ngày 27/9/2025 đến 04/10/2025)
 
 ---
 
 ## 1. Công việc đã thực hiện trong tuần
-
-* [ ] In các part 3D của cẳng tay và bàn tay.
-* [ ] Kiểm tra độ khớp nối giữa các part.
-* [ ] Ráp khung cơ bản của cẳng tay.
-* [ ] Gắn servo vào vị trí khe lắp để kiểm tra độ fit.
+- [ ] Việc 1: Lắp ráp hoàn chỉnh phần cơ khí của cánh tay robot.
+- [ ] Việc 2: Nối dây cước từ đầu ngón tay vào Servo.
+- [ ] Việc 3: Căn chỉnh độ căng dây để ngón tay duỗi thẳng khi Servo ở góc 0 độ.
 
 ---
 
 ## 2. Kết quả đạt được
-
-* Đã in xong các part chính của mô hình 3D.
-* Các khớp nối cơ bản lắp vừa, không cần chỉnh sửa nhiều.
-* Ráp thử được phần cẳng tay với một số servo đặt giả định, nhìn chung vừa khít.
+- Bàn tay robot đã thành hình hài vật lý.
+- Kiểm tra thủ công: Servo quay 180 độ -> Ngón tay nắm chặt.
 
 ---
 
 ## 3. Khó khăn / Vấn đề gặp phải
 
-* Một số chi tiết nhỏ (lỗ vít, khe dây kéo) còn hơi chặt, cần mài/tinh chỉnh nhẹ sau in.
-* Chất liệu in PLA có độ cứng tốt nhưng một vài part mỏng dễ nứt nếu siết vít quá mạnh.
-
 ---
 
 ## 4. Kế hoạch tuần tới
+- [ ] Việc 1: Cài đặt môi trường lập trình Python (OpenCV, MediaPipe).
+- [ ] Việc 2: Viết thuật toán nhận diện bàn tay người qua webcam.
+- [ ] Việc 3: Xác định các điểm Landmarks quan trọng trên bàn tay.
 
-* [ ] Hoàn thiện lắp 6 servo vào khung.
-* [ ] Test điều khiển servo cơ bản bằng code Arduino (servo sweep).
-* [ ] Map góc servo cho từng ngón tay để chuẩn bị tích hợp điều khiển.
+---

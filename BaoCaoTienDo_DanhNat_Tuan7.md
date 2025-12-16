@@ -1,37 +1,30 @@
-# Báo Cáo Tiến Độ Tuần 7 – Đồ án 1
+# 📑 Mẫu Báo Cáo Tiến Độ Tuần – Đồ án môn học
 
-**Tên sinh viên:** Danh Nat
-**MSSV:** 22520924
-**Tuần báo cáo:** Tuần 7 (Từ ngày 21/10/2025 đến 27/10/2025)
+**Tên nhóm:** Danh Nat
+**MSSV các thành viên:** 22520924
+**Tuần báo cáo:** Tuần 7 (Từ ngày 25/10/2025 đến 01/11/2025)
 
 ---
 
 ## 1. Công việc đã thực hiện trong tuần
-
-* [ ] In các part 3D của cẳng tay và bàn tay.
-* [ ] Kiểm tra độ khớp nối giữa các part.
-* [ ] Ráp khung cơ bản của cẳng tay.
-* [ ] Gắn servo vào vị trí khe lắp để kiểm tra độ fit.
+- [ ] Việc 1: Viết giao diện web cơ bản.
+- [ ] Việc 2: Viết API Flask để nhận lệnh từ nút bấm và gửi xuống Arduino.
 
 ---
 
 ## 2. Kết quả đạt được
-
-* Đã in xong các part chính của mô hình 3D.
-* Các khớp nối cơ bản lắp vừa, không cần chỉnh sửa nhiều.
-* Ráp thử được phần cẳng tay với một số servo đặt giả định, nhìn chung vừa khít.
+- Đã xem được camera trực tiếp trên trình duyệt.
+- Bấm nút trên Web, robot đã phản hồi (gập/duỗi ngón).
 
 ---
 
 ## 3. Khó khăn / Vấn đề gặp phải
-
-* Một số chi tiết nhỏ (lỗ vít, khe dây kéo) còn hơi chặt, cần mài/tinh chỉnh nhẹ sau in.
-* Chất liệu in PLA có độ cứng tốt nhưng một vài part mỏng dễ nứt nếu siết vít quá mạnh.
+- Video trên web bị lag (trễ khoảng 1 giây) so với thực tế.
 
 ---
 
 ## 4. Kế hoạch tuần tới
+- [ ] Việc 1: Tối ưu hóa kích thước khung hình video để giảm độ trễ.
+- [ ] Việc 2: Trang trí giao diện Web bằng Bootstrap/CSS.
 
-* [ ] Hoàn thiện lắp 6 servo vào khung.
-* [ ] Test điều khiển servo cơ bản bằng code Arduino (servo sweep).
-* [ ] Map góc servo cho từng ngón tay để chuẩn bị tích hợp điều khiển.
+---
