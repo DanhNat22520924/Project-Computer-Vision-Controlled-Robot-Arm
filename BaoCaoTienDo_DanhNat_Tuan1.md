@@ -20,12 +20,13 @@
 ---
 
 ## 3. Khó khăn / Vấn đề gặp phải
-- Chưa tìm được lò xo hoặc dây thun phù hợp để ngón tay tự bung ra (hồi vị) sau khi gập.
+- Chưa tìm được lò xo hoặc dây thun phù hợp để ngón tay tự bung ra sau khi gập.
 
 ---
 
 ## 4. Kế hoạch tuần tới
 - [ ] Việc 1: Thiết kế 3D cánh tay robot trên Fusion 360.
-- [ ] Việc 3: Tìm mua dây thun nha khoa để làm cơ cấu hồi vị.
+- [ ] Việc 3: Tìm mua dây thun nha khoa để làm cơ cấu bung ra.
+
 
 ---
