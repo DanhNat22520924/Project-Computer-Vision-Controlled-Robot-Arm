@@ -1,34 +1,31 @@
-# Báo Cáo Tiến Độ Tuần 1 – Đồ án 1
+# 📑 Mẫu Báo Cáo Tiến Độ Tuần – Đồ án môn học
 
-**Tên Sinh viên :**  Danh Nat
-**MSSV viên:** 22520924 
-**Tuần báo cáo:** Tuần 1 (Từ ngày 13/9/2025 đến 20/9/2025)  
+**Tên nhóm:** Danh Nat
+**MSSV các thành viên:** 22520924
+**Tuần báo cáo:** Tuần 1 (Từ ngày 13/9/2025 đến 20/9/2025)
 
 ---
 
 ## 1. Công việc đã thực hiện trong tuần
-- [ ] Việc 1: Đặt tên cho đồ án.
-- [ ] Việc 2: Chọn loại servo phù hợp.
-- [ ] Việc 3: Chuẩn bị Arduino Uno Nano, breadboard, dây jumper, module camera AI. 
-- [ ] việc 4 : Xác định workflow: Python (AI) → Serial → Arduino (servo).
+- [ ] Việc 1: Chốt đề tài "Bàn tay robot điều khiển bằng thị giác máy tính và Web Server".
+- [ ] Việc 2: Nghiên cứu cơ cấu truyền động dây cước (Tendon-driven) mô phỏng gân tay người.
+- [ ] Việc 3: Đặt mua linh kiện: Servo (MG995/SG90), dây cước câu cá, mạch Arduino Nano,..
 
 ---
 
 ## 2. Kết quả đạt được
--  Đã đặt tên cho đồ án: Cánh tay robot điều khiển bằng thị giác máy tính (Computer Vision Controlled Robotic Arm)
-- Đã xác định dùng Mạch Arduino: Arduino Nano.
-- Đã chọn được Động cơ servo:
-+ SG 90 1 cái dùng để điều khiển ngón cái
-+ MG995 5 cái dùng để điều khiển 4 ngón và xoay cổ tay.
-- Các cây và breakboard kết nối.
+- Đã nắm rõ nguyên lý hoạt động: Servo quay cuộn dây -> Ngón tay gập.
+- Đã có đầy đủ danh sách vật tư cần thiết.
+
+---
 
 ## 3. Khó khăn / Vấn đề gặp phải
-- Chưa thực sự tối ưu được camera phù hợp cho Đồ án.  
-
+- Chưa tìm được lò xo hoặc dây thun phù hợp để ngón tay tự bung ra (hồi vị) sau khi gập.
 
 ---
 
 ## 4. Kế hoạch tuần tới
-- [ ] Việc 1:Hoàn thiện thiết kế mô hình 3D cánh tay và bàn tay bằng phần mềm CAD (Fusion 360)  
-- [ ] Việc 2: Xác định kích thước lắp servo.  
-- [ ] Việc 3: Chuẩn bị file STL.  
+- [ ] Việc 1: Thiết kế 3D cánh tay robot trên Fusion 360.
+- [ ] Việc 3: Tìm mua dây thun nha khoa để làm cơ cấu hồi vị.
+
+---
